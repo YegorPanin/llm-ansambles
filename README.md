@@ -2,7 +2,7 @@
 # llm-ansambles
 Исследование возможности применения базовых методов линейной алгебры для ансамблирования больших языковых моделей
 
-##№ Подробно ознакомиться с материалом можно [тут](https://colab.research.google.com/drive/1dC16XzmIntF5MSSuKyOGwopop4BQzZxY)
+### Подробно ознакомиться с материалом можно [тут](https://colab.research.google.com/drive/1dC16XzmIntF5MSSuKyOGwopop4BQzZxY)
 
 ## Зачем?
 
